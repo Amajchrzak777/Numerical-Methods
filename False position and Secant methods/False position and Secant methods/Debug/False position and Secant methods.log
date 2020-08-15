@@ -1,0 +1,12 @@
+﻿  False position and Secant methods.cpp
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(32,18): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(32,31): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(32,41): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(32,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(35,10): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(35,18): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(58,22): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(58,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(58,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Adaś\Desktop\PNM\False position and Secant methods\False position and Secant methods\False position and Secant methods.cpp(58,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  False position and Secant methods.vcxproj -> C:\Users\Adaś\Desktop\PNM\False position and Secant methods\Debug\False position and Secant methods.exe
